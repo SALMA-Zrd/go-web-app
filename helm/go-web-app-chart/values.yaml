@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: salmazrd/go-web-app
   pullPolicy: IfNotPresent
-  tag: "40776886277"
+  tag: "40781816031"
 
 ingress:
   enabled: false
